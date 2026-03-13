@@ -1,2 +1,4 @@
-FROM devopsedu/webapp
-COPY . /var/www/html
+ FROM devopsedu/webapp
+
+COPY index.php /var/www/html/index.php
+
