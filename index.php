@@ -1,3 +1,3 @@
 <?php
-echo "Hello from DevOps Jenkins Pipeline!";
+echo "Hello from Jenkins DevOps Project!";
 ?>
